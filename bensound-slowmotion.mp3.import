@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bensound-slowmotion.mp3-16c3602e5be2998e01e88983a202aa28.mp3str"
+
+[deps]
+
+source_file="res://bensound-slowmotion.mp3"
+dest_files=[ "res://.import/bensound-slowmotion.mp3-16c3602e5be2998e01e88983a202aa28.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
